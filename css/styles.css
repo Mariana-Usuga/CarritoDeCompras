@@ -4,6 +4,9 @@
 .carrito{
     text-align:right;
 }
+table{
+    height: 100px;
+}
 .subMenu-carrito{
     position: absolute;
     visibility: hidden;
@@ -14,6 +17,9 @@
 }
 .subMenu-carrito table tr td{
     padding: 1rem;
+}
+.html{
+    font-size: 20%;
 }
 #hero{
     background-image: url(../img/hero.jpg);
